@@ -77,6 +77,10 @@ name = "the-rust-programming-lang"
 version = "0.1.0"
 
 [[package]]
+name = "using_structs"
+version = "0.1.0"
+
+[[package]]
 name = "variables"
 version = "0.1.0"
 
