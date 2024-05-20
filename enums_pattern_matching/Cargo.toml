@@ -1,6 +1,5 @@
-workspace = { members = [ "enums_pattern_matching", "guessing_game", "ownership", "using_structs","variables"] }
 [package]
-name = "the-rust-programming-lang"
+name = "enums_pattern_matching"
 version = "0.1.0"
 edition = "2021"
 
