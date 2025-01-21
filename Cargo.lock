@@ -17,6 +17,10 @@ name = "enums_pattern_matching"
 version = "0.1.0"
 
 [[package]]
+name = "error_handling"
+version = "0.1.0"
+
+[[package]]
 name = "getrandom"
 version = "0.2.14"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -42,6 +46,10 @@ checksum = "ae743338b92ff9146ce83992f766a31066a91a8c84a45e0e9f21e7cf6de6d346"
 
 [[package]]
 name = "minigrep"
+version = "0.1.0"
+
+[[package]]
+name = "my-project-package"
 version = "0.1.0"
 
 [[package]]

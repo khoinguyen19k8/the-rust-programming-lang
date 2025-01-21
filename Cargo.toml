@@ -7,7 +7,7 @@ members = [
     "variables",
     "minigrep",
     "collections"
-]
+, "error_handling", "my-project-package"]
 [package]
 name = "the-rust-programming-lang"
 version = "0.1.0"
